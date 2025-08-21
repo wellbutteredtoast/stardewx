@@ -41,11 +41,11 @@ Installing StardewX is fairly straightforward. First things first, you will need
 - MailFrameworkMod
 - ShopTileFramework
 - Content Patcher
+- Content Patcher Animations
 - SpaceCore
 - JsonAssets
 - FarmTypeManager
 - ExpandedPreconditionsUtility
-- Content Patcher Animations
 
 ### Helpful Mods for Developers
 - CJBCheatsMenu
@@ -57,12 +57,13 @@ All of these mods can be sourced from locations like Github, or Nexus Mods, or s
 
 After downloading the \*.zip file from either a mod hosting site or this repos [*Releases*]() page, extract the directory to your games `Mods` directory.
 
-On Windows, this typically lives in: `\steamapps\common\Stardew Valley\Mods`\
+On Windows: `\steamapps\common\Stardew Valley\Mods`\
 For Linux: `steamapps/common/Stardew Valley/Mods`\
 For MacOS: `??` <!-- idk -->
 
-To find your `steamapps` directory you'll need to know where Steam is installed on your computer.
-
----
-
+To find your `steamapps` directory you'll need to know where Steam is installed on your computer.\
 And that's it! StardewX is now installed into your game and it should work just fine from here on out.
+
+# Configuring StardewX
+
+<sub>Come back to this later</sub>
